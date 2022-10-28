@@ -4,9 +4,9 @@ for(i=0;i<=num;i++){
     if(num%i==0){
         count++
     }if(count=2){
-        console.log("Yes")
+        console.log("Palindrome")
     }else{
-        console.log ("No")
+        console.log ("Not a  palindrome")
     }
 }
-//should change from yes no to palindrom or not a palindrom
+//should change from yes no to palindrome or not a palindrome
